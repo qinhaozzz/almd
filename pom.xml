@@ -32,7 +32,7 @@
     <dependencies>
         <!--
             问题: 主干更新,分支是否自动更新?
-            答案:
+            答案: 否
         -->
         <dependency>
             <groupId>org.slf4j</groupId>
