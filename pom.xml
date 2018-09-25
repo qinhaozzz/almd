@@ -11,6 +11,7 @@
 
     <modules>
         <module>spring-simple</module>
+        <module>java8-action</module>
     </modules>
 
     <build>
