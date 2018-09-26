@@ -13,6 +13,7 @@
         <module>spring-simple</module>
         <module>java8-action</module>
         <module>java-base</module>
+        <module>think-in-java</module>
     </modules>
 
     <build>
